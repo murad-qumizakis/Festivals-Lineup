@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/muradqumizakis/Desktop/BCIT/FSWD/2/TERM 2/COMP - 4514/Week3/festivals-backend/wwwroot/assets/index-545f4f73.css",
+      "PackagePath": "staticwebassets/assets/index-545f4f73.css"
+    },
+    {
+      "Id": "/Users/muradqumizakis/Desktop/BCIT/FSWD/2/TERM 2/COMP - 4514/Week3/festivals-backend/wwwroot/assets/index-7cbddec4.js",
+      "PackagePath": "staticwebassets/assets/index-7cbddec4.js"
+    },
+    {
+      "Id": "/Users/muradqumizakis/Desktop/BCIT/FSWD/2/TERM 2/COMP - 4514/Week3/festivals-backend/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/muradqumizakis/Desktop/BCIT/FSWD/2/TERM 2/COMP - 4514/Week3/festivals-backend/wwwroot/vite.svg",
+      "PackagePath": "staticwebassets/vite.svg"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.festivals.props",
+      "PackagePath": "build\\festivals.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.festivals.props",
+      "PackagePath": "buildMultiTargeting\\festivals.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.festivals.props",
+      "PackagePath": "buildTransitive\\festivals.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.festivals.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

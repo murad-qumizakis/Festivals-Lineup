@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "+hy9LTLMcHbuDD9RqnN3SjhRLeOAlycCBuLgHCwbwJ0=",
+  "Source": "festivals",
+  "BasePath": "_content/festivals",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "festivals/wwwroot",
+      "Source": "festivals",
+      "ContentRoot": "/Users/muradqumizakis/Desktop/BCIT/FSWD/2/TERM 2/COMP - 4514/Week3/festivals-backend/wwwroot/",
+      "BasePath": "_content/festivals",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/muradqumizakis/Desktop/BCIT/FSWD/2/TERM 2/COMP - 4514/Week3/festivals-backend/wwwroot/assets/index-545f4f73.css",
+      "SourceId": "festivals",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/muradqumizakis/Desktop/BCIT/FSWD/2/TERM 2/COMP - 4514/Week3/festivals-backend/wwwroot/",
+      "BasePath": "_content/festivals",
+      "RelativePath": "assets/index-545f4f73.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/index-545f4f73.css"
+    },
+    {
+      "Identity": "/Users/muradqumizakis/Desktop/BCIT/FSWD/2/TERM 2/COMP - 4514/Week3/festivals-backend/wwwroot/assets/index-7cbddec4.js",
+      "SourceId": "festivals",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/muradqumizakis/Desktop/BCIT/FSWD/2/TERM 2/COMP - 4514/Week3/festivals-backend/wwwroot/",
+      "BasePath": "_content/festivals",
+      "RelativePath": "assets/index-7cbddec4.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/index-7cbddec4.js"
+    },
+    {
+      "Identity": "/Users/muradqumizakis/Desktop/BCIT/FSWD/2/TERM 2/COMP - 4514/Week3/festivals-backend/wwwroot/index.html",
+      "SourceId": "festivals",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/muradqumizakis/Desktop/BCIT/FSWD/2/TERM 2/COMP - 4514/Week3/festivals-backend/wwwroot/",
+      "BasePath": "_content/festivals",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/muradqumizakis/Desktop/BCIT/FSWD/2/TERM 2/COMP - 4514/Week3/festivals-backend/wwwroot/vite.svg",
+      "SourceId": "festivals",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/muradqumizakis/Desktop/BCIT/FSWD/2/TERM 2/COMP - 4514/Week3/festivals-backend/wwwroot/",
+      "BasePath": "_content/festivals",
+      "RelativePath": "vite.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/vite.svg"
+    }
+  ]
+}

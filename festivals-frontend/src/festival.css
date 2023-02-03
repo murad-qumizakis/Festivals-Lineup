@@ -1,0 +1,56 @@
+.festival {
+border: 1px solid #39FF14;
+width: 50em;
+
+}
+
+.fest-info label,
+.fest-info p {
+  margin: 0;
+  padding: 5px 0;
+}
+
+.fest-info label {
+  font-weight: bold;
+  color: #666;
+}
+
+span div {
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+padding: 4em; 
+padding-top: 1em;
+padding-bottom: .1em;
+border-bottom: 1px solid #e6e6e6;
+} 
+
+.festivals {
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
+}
+
+.cards {
+  margin: 15em;
+}
+
+
+/* div.artists {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+} */
+
+/* div.festival-card {
+  height: 20em;
+} */
+
+div.artists {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  gap: 1em;
+  flex-direction: column;
+  height: 15em;
+}
